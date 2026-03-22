@@ -1,1 +1,1 @@
-# databricks-masterclass
+# Restaurant Analytics Platform
