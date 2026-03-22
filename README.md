@@ -5,7 +5,7 @@ End-to-end data platform that ingests real-time and batch restaurant data,
 processes it using Medallion Architecture, and generates insights using AI and BI dashboards.
 
 ## 🧩 Architecture
-[ADD DIAGRAM IMAGE HERE]
+![alt text](project_architecture.png)
 
 Event Hub (Streaming)
         ↓
